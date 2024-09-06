@@ -5,7 +5,7 @@
     {  
         
         Console.WriteLine(DateTime.Now.ToLongDateString());
-        Console.WriteLine("Versão da aplicação: 1.0");
+        Console.WriteLine("Versão da aplicação: 1.1");
         bool continuar = true;
 Loading();
 
@@ -31,6 +31,8 @@ while (continuar)
     
 
 }
+
+
     }
     static void Loading()
 
